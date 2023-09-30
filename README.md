@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.dronahq.com/wp-content/uploads/2022/03/banner-database-gui.svg))](https://tej0730.io)
+
 <h1 align="center">Hi 👋, I'm Tej Doshi</h1>
 <h3 align="center">A student from India</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg">
+<img align="right" alt="coding" width="auto" height="180" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tej0730&label=Profile%20views&color=0e75b6&style=flat" alt="tej0730" /> </p>
 
 <h3 align="left">Connect with me:</h3>
